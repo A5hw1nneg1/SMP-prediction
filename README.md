@@ -18,4 +18,6 @@ The proposed framework aims to predict the popularity of social media posts by l
 ### Experimental Results:
 Experimental results demonstrate the effectiveness of this early fusion approach on the SMPD dataset. The framework exhibits promising performance in predicting the popularity of social media posts, showcasing its potential for practical applications.
 
+![image](https://github.com/A5hw1nneg1/SMP-prediction/assets/96017158/0309aebc-d0cc-44b8-b076-8b1dbff5583c)
+
 
