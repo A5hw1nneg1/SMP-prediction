@@ -12,7 +12,11 @@ The proposed framework aims to predict the popularity of social media posts by l
 * Collection Source: Collected from Flickr, one of the largest photo-sharing platforms.
 * Temporal Split: For time-series forecasting, training/testing data are split into chronological sets based on date and time.
 ### Flowchart: 
+
 ![image](https://github.com/A5hw1nneg1/SMP-prediction/assets/96017158/dc7b114c-ae76-4094-9a06-454f4f911036)
 
 ### Experimental Results:
 Experimental results demonstrate the effectiveness of this early fusion approach on the SMPD dataset. The framework exhibits promising performance in predicting the popularity of social media posts, showcasing its potential for practical applications.
+
+![image](https://github.com/A5hw1nneg1/SMP-prediction/assets/96017158/6a61a417-7460-41d5-a24e-50dc6770efcb)
+
