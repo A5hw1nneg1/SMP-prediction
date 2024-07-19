@@ -1,7 +1,7 @@
 # SMP-prediction
 ## Popularity prediction for Flicker Posts using the SMP challenge dataset
 ### Social Media Post Popularity Prediction Framework
-The proposed framework aims to predict the popularity of social media posts by leveraging multimodal information through early fusion. Feature extraction begins with Residual Nets (ResNet) for image features and text features obtained using Global Vectors for Word Representation (GloVe) embeddings combined with a bi-directional Long Short-Term Memory (LSTM) model. These extracted features are then combined using Principal Component Analysis (PCA) into a unified feature vector for predicting post popularity.
+The proposed framework aims to predict the popularity of social media posts by leveraging multimodal information through early fusion. Feature extraction begins with Residual Nets (ResNet) for image features and text features obtained using Global Vectors for Word Representation (GloVe) embeddings combined with a bi-directional Long Short-Term Memory (LSTM) model. The extracted features are then combined using Principal Component Analysis (PCA) into a unified feature vector for predicting post popularity.
 
 ### Features:
 * ResNet for Image Features: Utilizes Residual Nets for extracting rich image features.
